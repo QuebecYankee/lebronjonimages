@@ -1,2 +1,2 @@
 //document.write("<h1>Hello World!</h1><p>Have a nice day!</p>");
-alert("This alert box was called with the onload event");
+alert("testing changes");
