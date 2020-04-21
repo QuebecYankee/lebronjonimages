@@ -1,1 +1,19 @@
-document.write("<h1>Hello World!</h1><p>Have a nice day!</p>");
+document.write("
+<table>
+		<tr>
+			<td class="leftImage"><img alt="Lebron's Veins" src="veins.png"></td>
+			<td><img alt="Lebron's Veins" src="veins.png"></td>
+		</tr>
+		<tr>
+			<td class="leftImage"><img alt="Lebron's Veins" src="veins.png"></td>
+			<td><img alt="Lebron's Veins" src="veins.png"></td>
+		</tr>
+		<tr>
+			<td class="leftImage"><img alt="Lebron's Veins" src="veins.png"></td>
+			<td><img alt="Lebron's Veins" src="veins.png"></td>
+		</tr>
+		<tr>
+			<td class="leftImage"><img alt="Lebron's Veins" src="veins.png"></td>
+		</tr>
+</table>
+");
